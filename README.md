@@ -1,2 +1,1 @@
-# simple_shell
-simple_shell
+My readme file of simple_shell
